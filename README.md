@@ -9,7 +9,7 @@ A deployment is one or more products from the Elastic Stack configured to work t
 Determine what information would be important for the user and display it in one or two pages.
 
 You can use this project to set up the environment quickly.
-Feel free to add what you feel is necessary but please don't spend more than 2 - 3 hour.
+Feel free to add what you feel is necessary but please don't spend more than 2 - 3 hours.
 
 You can install the project with
 
