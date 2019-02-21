@@ -18,14 +18,14 @@ class App extends Component {
     return (
       <Router>
         <div className="App">
-          <EuiHeader className="header">
+          <EuiHeader>
             <EuiHeaderSection grow={true}>
               <EuiHeaderSectionItem border="right">
                 <EuiHeaderLogo href="#" iconType={"logoElastic"} />
               </EuiHeaderSectionItem>
             </EuiHeaderSection>
           </EuiHeader>
-          <EuiPage className="page">
+          <EuiPage>
             <EuiPageSideBar>
               <Link to="/">Home</Link>
               <EuiSpacer/>
