@@ -22,3 +22,9 @@ and start it with
 ```
 yarn start
 ```
+
+## About this repo
+
+This app uses [React](https://reactjs.org/) and was generated using [create-react-app](https://github.com/facebook/create-react-app). This is meant to give you a head start so you don't have to worry about app setup. We leveraged [React Router](https://github.com/ReactTraining/react-router) so you can easily setup additional routes if you'd like. Feel free to do what you wish with the code from here!
+
+We've also included the [Elastic UI Framework](https://github.com/elastic/eui) (EUI) for you to use.  The [EUI living style guide](https://elastic.github.io/eui/#/) provides plenty of examples for you to reference. 
