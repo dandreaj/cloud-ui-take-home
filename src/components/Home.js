@@ -27,7 +27,7 @@ class Home extends Component {
           <EuiPageContentHeader>
             <EuiPageContentHeaderSection>
               <EuiTitle>
-                <h2>Hey there!</h2>
+                <h2>Helpful resources</h2>
               </EuiTitle>
             </EuiPageContentHeaderSection>
           </EuiPageContentHeader>
@@ -38,6 +38,14 @@ class Home extends Component {
             <EuiSpacer />
             <EuiLink href="https://elastic.github.io/eui/#/" target="_blank">
               EUI living style guide
+            </EuiLink>
+            <EuiSpacer />
+            <EuiLink href="https://reactjs.org/docs/getting-started.html" target="_blank">
+              React docs
+            </EuiLink>
+            <EuiSpacer />
+            <EuiLink href="https://github.com/facebook/create-react-app" target="_blank">
+              create-react-app
             </EuiLink>
           </EuiPageContentBody>
         </EuiPageContent>
